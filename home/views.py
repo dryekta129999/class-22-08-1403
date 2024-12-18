@@ -18,7 +18,7 @@ def home(request):
 
 # Create your views here.
 # def testing(request):
-# 	template = loader.get_template('master.html')
+# 	template = loader.get_template('_base.html')
 # 	context = {
 # 		'mydate': datetime.datetime.now(),
 # 	}
